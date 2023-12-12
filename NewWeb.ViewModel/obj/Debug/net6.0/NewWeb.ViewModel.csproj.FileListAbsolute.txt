@@ -1,0 +1,12 @@
+C:\Users\ASUS\DATA D\Bootcamp\NewWeb\NewWeb.ViewModel\bin\Debug\net6.0\NewWeb.ViewModel.deps.json
+C:\Users\ASUS\DATA D\Bootcamp\NewWeb\NewWeb.ViewModel\bin\Debug\net6.0\NewWeb.ViewModel.dll
+C:\Users\ASUS\DATA D\Bootcamp\NewWeb\NewWeb.ViewModel\bin\Debug\net6.0\NewWeb.ViewModel.pdb
+C:\Users\ASUS\DATA D\Bootcamp\NewWeb\NewWeb.ViewModel\obj\Debug\net6.0\NewWeb.ViewModel.csproj.AssemblyReference.cache
+C:\Users\ASUS\DATA D\Bootcamp\NewWeb\NewWeb.ViewModel\obj\Debug\net6.0\NewWeb.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\DATA D\Bootcamp\NewWeb\NewWeb.ViewModel\obj\Debug\net6.0\NewWeb.ViewModel.AssemblyInfoInputs.cache
+C:\Users\ASUS\DATA D\Bootcamp\NewWeb\NewWeb.ViewModel\obj\Debug\net6.0\NewWeb.ViewModel.AssemblyInfo.cs
+C:\Users\ASUS\DATA D\Bootcamp\NewWeb\NewWeb.ViewModel\obj\Debug\net6.0\NewWeb.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\DATA D\Bootcamp\NewWeb\NewWeb.ViewModel\obj\Debug\net6.0\NewWeb.ViewModel.dll
+C:\Users\ASUS\DATA D\Bootcamp\NewWeb\NewWeb.ViewModel\obj\Debug\net6.0\refint\NewWeb.ViewModel.dll
+C:\Users\ASUS\DATA D\Bootcamp\NewWeb\NewWeb.ViewModel\obj\Debug\net6.0\NewWeb.ViewModel.pdb
+C:\Users\ASUS\DATA D\Bootcamp\NewWeb\NewWeb.ViewModel\obj\Debug\net6.0\ref\NewWeb.ViewModel.dll

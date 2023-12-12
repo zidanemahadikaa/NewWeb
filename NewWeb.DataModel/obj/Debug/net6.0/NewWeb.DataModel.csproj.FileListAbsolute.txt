@@ -1,0 +1,14 @@
+C:\Users\ASUS\DATA D\Bootcamp\NewWeb\NewWeb.DataModel\bin\Debug\net6.0\NewWeb.DataModel.deps.json
+C:\Users\ASUS\DATA D\Bootcamp\NewWeb\NewWeb.DataModel\bin\Debug\net6.0\NewWeb.DataModel.dll
+C:\Users\ASUS\DATA D\Bootcamp\NewWeb\NewWeb.DataModel\bin\Debug\net6.0\NewWeb.DataModel.pdb
+C:\Users\ASUS\DATA D\Bootcamp\NewWeb\NewWeb.DataModel\obj\Debug\net6.0\NewWeb.DataModel.csproj.AssemblyReference.cache
+C:\Users\ASUS\DATA D\Bootcamp\NewWeb\NewWeb.DataModel\obj\Debug\net6.0\NewWeb.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\DATA D\Bootcamp\NewWeb\NewWeb.DataModel\obj\Debug\net6.0\NewWeb.DataModel.AssemblyInfoInputs.cache
+C:\Users\ASUS\DATA D\Bootcamp\NewWeb\NewWeb.DataModel\obj\Debug\net6.0\NewWeb.DataModel.AssemblyInfo.cs
+C:\Users\ASUS\DATA D\Bootcamp\NewWeb\NewWeb.DataModel\obj\Debug\net6.0\NewWeb.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\DATA D\Bootcamp\NewWeb\NewWeb.DataModel\obj\Debug\net6.0\NewWeb.DataModel.dll
+C:\Users\ASUS\DATA D\Bootcamp\NewWeb\NewWeb.DataModel\obj\Debug\net6.0\refint\NewWeb.DataModel.dll
+C:\Users\ASUS\DATA D\Bootcamp\NewWeb\NewWeb.DataModel\obj\Debug\net6.0\NewWeb.DataModel.pdb
+C:\Users\ASUS\DATA D\Bootcamp\NewWeb\NewWeb.DataModel\obj\Debug\net6.0\ref\NewWeb.DataModel.dll
+C:\Users\ASUS\DATA D\Bootcamp\NewWeb\NewWeb.DataModel\bin\Debug\net6.0\NewWeb.DataModel.runtimeconfig.json
+C:\Users\ASUS\DATA D\Bootcamp\NewWeb\NewWeb.DataModel\obj\Debug\net6.0\NewWeb.DataModel.genruntimeconfig.cache

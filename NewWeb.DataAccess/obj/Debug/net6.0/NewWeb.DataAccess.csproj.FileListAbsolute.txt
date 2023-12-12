@@ -1,0 +1,17 @@
+C:\Users\ASUS\DATA D\Bootcamp\NewWeb\NewWeb.DataAccess\bin\Debug\net6.0\NewWeb.DataAccess.deps.json
+C:\Users\ASUS\DATA D\Bootcamp\NewWeb\NewWeb.DataAccess\bin\Debug\net6.0\NewWeb.DataAccess.dll
+C:\Users\ASUS\DATA D\Bootcamp\NewWeb\NewWeb.DataAccess\bin\Debug\net6.0\NewWeb.DataAccess.pdb
+C:\Users\ASUS\DATA D\Bootcamp\NewWeb\NewWeb.DataAccess\obj\Debug\net6.0\NewWeb.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ASUS\DATA D\Bootcamp\NewWeb\NewWeb.DataAccess\obj\Debug\net6.0\NewWeb.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\DATA D\Bootcamp\NewWeb\NewWeb.DataAccess\obj\Debug\net6.0\NewWeb.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ASUS\DATA D\Bootcamp\NewWeb\NewWeb.DataAccess\obj\Debug\net6.0\NewWeb.DataAccess.AssemblyInfo.cs
+C:\Users\ASUS\DATA D\Bootcamp\NewWeb\NewWeb.DataAccess\obj\Debug\net6.0\NewWeb.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\DATA D\Bootcamp\NewWeb\NewWeb.DataAccess\obj\Debug\net6.0\NewWeb.DataAccess.dll
+C:\Users\ASUS\DATA D\Bootcamp\NewWeb\NewWeb.DataAccess\obj\Debug\net6.0\refint\NewWeb.DataAccess.dll
+C:\Users\ASUS\DATA D\Bootcamp\NewWeb\NewWeb.DataAccess\obj\Debug\net6.0\NewWeb.DataAccess.pdb
+C:\Users\ASUS\DATA D\Bootcamp\NewWeb\NewWeb.DataAccess\obj\Debug\net6.0\ref\NewWeb.DataAccess.dll
+C:\Users\ASUS\DATA D\Bootcamp\NewWeb\NewWeb.DataAccess\bin\Debug\net6.0\NewWeb.DataModel.dll
+C:\Users\ASUS\DATA D\Bootcamp\NewWeb\NewWeb.DataAccess\bin\Debug\net6.0\NewWeb.ViewModel.dll
+C:\Users\ASUS\DATA D\Bootcamp\NewWeb\NewWeb.DataAccess\bin\Debug\net6.0\NewWeb.DataModel.pdb
+C:\Users\ASUS\DATA D\Bootcamp\NewWeb\NewWeb.DataAccess\bin\Debug\net6.0\NewWeb.ViewModel.pdb
+C:\Users\ASUS\DATA D\Bootcamp\NewWeb\NewWeb.DataAccess\obj\Debug\net6.0\NewWeb.DataAccess.csproj.CopyComplete
